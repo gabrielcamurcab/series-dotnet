@@ -1,0 +1,57 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.json
+*.lock.json
+*.proj
+*.user
+*.vscode
+bin/
+obj/
+[Bb]in
+[Oo]bj
+# End of .NET Core
+
+# Visual Studio Code
+.vscode/
+# End of Visual Studio Code
+
+# NuGet Packages
+*.nupkg
+# End of NuGet Packages
+
+# MSTest Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+# End of MSTest Test Results
+
+# MSTest code coverage
+*.coverage
+*.coveragexml
+# End of MSTest code coverage
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+# End of Visual Studio profiler
+
+# Roslyn
+*.sln.ide
+# End of Roslyn
+
+# Rider
+.idea/
+# End of Rider
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+# End of Resharper
+
+# User-specific files
+*.suo
+*.u
