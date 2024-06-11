@@ -1,0 +1,14 @@
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\bin\Debug\net8.0\gc.Series.exe
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\bin\Debug\net8.0\gc.Series.deps.json
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\bin\Debug\net8.0\gc.Series.runtimeconfig.json
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\bin\Debug\net8.0\gc.Series.dll
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\bin\Debug\net8.0\gc.Series.pdb
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.AssemblyInfoInputs.cache
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.AssemblyInfo.cs
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.csproj.CoreCompileInputs.cache
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.dll
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\refint\gc.Series.dll
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.pdb
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\gc.Series.genruntimeconfig.cache
+c:\Users\Gabriel Camurça\OneDrive\Documentos\estudos\dotnet\gc.Series\obj\Debug\net8.0\ref\gc.Series.dll
